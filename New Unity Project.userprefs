@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\hudcode.cs">
+    <Files>
+      <File FileName="Assets\Asset\newshoot.cs" Line="112" Column="1" />
+      <File FileName="Assets\guienemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\EnemyCreator.cs" Line="1" Column="1" />
+      <File FileName="Assets\newenemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\hud2d.cs" Line="1" Column="1" />
+      <File FileName="Assets\pathfollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\manmove.cs" Line="39" Column="4" />
+      <File FileName="Assets\lineLaser.cs" Line="1" Column="1" />
+      <File FileName="Assets\hudcode.cs" Line="118" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
